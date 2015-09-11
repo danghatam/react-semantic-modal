@@ -1,0 +1,20 @@
+{
+  "name": "react-semantic-modal-simple",
+  "version": "0.0.1",
+  "description": "react semantic modal",
+  "main": "src/modal.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "semantic",
+    "modal"
+  ],
+  "author": "Tam Dang <danghatam@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-portal": "^0.7.0"
+  }
+}
